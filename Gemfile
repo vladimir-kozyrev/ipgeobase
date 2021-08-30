@@ -12,3 +12,5 @@ gem "minitest", "~> 5.0"
 gem "rubocop", "~> 1.7"
 
 gem "webmock", "~> 3.14"
+
+gem "nokogiri", "~> 1.12"
